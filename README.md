@@ -16,13 +16,14 @@ Decidi montar una configuración Handwired(insertar link), ya que es más fácil
 
 ### 25/09/2017
 ----
-Decidi empezar de a poco y partir testeando los switches. Dado que son swtiches eléctricos, simplemente arme un circuito extremadamente avanzado compuesto por un led y una resitencia conectados a un arduino. (Porque un arduino? me gustan los arduinos  )
+Decidi empezar de a poco y partir testeando los switches. Dado que son swtiches eléctricos, simplemente arme un circuito extremadamente avanzado compuesto por un led y una resitencia conectados a un arduino. (Porque un arduino? me gustan los arduinos) y el switch como interruptor. 
+
 
 **Porque testear los switches?**
-Ya que esto va a ser Handwired. Si luego de soldar todos los switches, existen algunso que no funcionan el procesos de desoldado va a ser un culo y no quiero pasar por eso.
+Ya que esto va a ser Handwired. Si luego de soldar todos los switches, existen algunos que no funcionan, el procesos de desoldado y reemplazo de estos switches va a ser un culo y no quiero pasar por eso.
 
 
-*Tip saludable:* El humo de la soldadura es malo para la salud!! Tratar de soldar en lugares con buena ventilación y lo justo y necesario.  
+*Tip saludable:* El humo de la soldadura es malo para la salud!! Trata de soldar en lugares con buena ventilación y lo justo y necesario.  
  
 
 
@@ -37,3 +38,7 @@ Ya que esto va a ser Handwired. Si luego de soldar todos los switches, existen a
 
 
 ## Links útiles
+-Guia matt30 BrownFox build: https://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html
+-Deskthority: https://deskthority.net/
+-This blog post: https://gizmodo.com/i-built-a-keyboard-from-scratch-1649325860
+-Medium post: https://medium.com/@DavidNZ/hand-wired-custom-keyboard-cdd14429c7b3
